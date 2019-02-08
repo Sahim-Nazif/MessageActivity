@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NazifullahSahim_COMP304_Ex1</string>
+    <string name="enter_message">Enter Message</string>
+    <string name="btn_send">Send Message</string>
+</resources>
